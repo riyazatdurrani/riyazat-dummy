@@ -1,0 +1,124 @@
+body{
+  margin: 0;
+  text-align: center;
+
+}
+
+.div1{
+  background-color: #E4F9F5;
+  position: relative;
+    line-height: 1;
+
+}
+.para1{
+   margin-bottom: -2rem;
+}
+
+h1 {
+  margin: 0;
+font-family: 'Permanent Marker', cursive;
+font-size: 4.65rem;
+color: #66BFBF;
+}
+h2{
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 2.2rem;
+  color: #66BFBF;
+font-weight: normal;
+
+
+
+}
+h3{
+  color: #66BFBF;
+}
+
+.top-cloud{
+  margin-top: 5%;
+  margin-left: 30rem;
+  width: 10%;
+  height: auto;
+}
+.bottom-cloud{
+  margin-right: 40rem;
+
+  width: 10%;
+
+  margin-bottom: 0;
+  height: 4rem;
+}
+.mountain{
+    margin-right:-5%;
+    width: 50%;
+    height: auto;
+      height: 20rem;
+
+
+}
+img{
+    border-radius: 50%;
+
+}
+
+    .skill-row{
+      margin: 100px auto;
+    }
+    .img1{
+    float: left;
+        width: 25%;
+      }
+      .img2{
+      float: right;
+          width: 25%;
+          padding-top: 5%;
+        }
+      .para{
+        padding-left: 30%;
+        line-height: 2;
+      text-align: left;
+      }
+
+      .middle-container{
+  padding: 5% 20%;
+      }
+
+      hr{
+         border-style: dotted none none ;
+         color: grey;
+         border-width: 10px;
+         width: 20%;
+      }
+      .riyazatPara{
+        padding: 0 20% 5% 20%;
+      }
+      .touch{
+        padding-top: 10%;
+      }
+      .contact-me{
+      padding: 0 25%;
+      }
+
+      .btn {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.bottom-container{
+  background-color: #11999E;
+  padding: 5%  5%;
+}
+.footer-link{
+  padding: 0 2%;
+}
+.qwe{
+  padding-top: 3%;
+}
